@@ -2,5 +2,9 @@
     {
         "package": "openbangsamoro",
         "url": "https://github.com/panukatan/openbangsamoro"
+    },
+    {
+        "packages": "openmarawi",
+        "url": "https://github.com/panukatan/openmarawi"
     }
 ]
