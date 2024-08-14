@@ -18,5 +18,9 @@
     {
         "package": "bagyo",
         "url": "https://github.com/panukatan/bagyo"
+    },
+    {
+        "package": "lindol",
+        "url": "https://github.com/panukatan/lindol"
     }
 ]
